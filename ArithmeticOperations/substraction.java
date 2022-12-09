@@ -7,6 +7,6 @@ class Substraction{
         System.out.println("Enter two Integer numbers for Substraction");
         int a=sc.nextInt();
         int b=sc.nextInt();
-        System.out.println("Substraction is: "+(a-b));
+        System.out.println("Substraction is:     "+(a-b));
     }
 }
